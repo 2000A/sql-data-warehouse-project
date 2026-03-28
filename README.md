@@ -7,7 +7,7 @@ This project demonstrates a comprehensive data warehouseing and analytics soluti
 
 ## Project Requiremtns
 
-### Building the dDAta Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
 
 ### Objective
 Develop a modern data warehouse using PostgreSQL to consolidate sales data, enabling analytical reporting and informed decision-making.
